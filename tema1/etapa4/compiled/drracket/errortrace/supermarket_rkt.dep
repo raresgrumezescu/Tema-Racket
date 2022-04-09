@@ -1,0 +1,1 @@
+("8.0" ta6nt ("e14223b3ccf7a132ee52c4f729338abd5c6734b7" . "ab8e1a613a63f8bac58b98ce2e2376b65a399e0f") #"C:\\Users\\rares\\Desktop\\PP\\Teme\\tema1\\etapa4\\queue.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"runtime-config.rkt"))
